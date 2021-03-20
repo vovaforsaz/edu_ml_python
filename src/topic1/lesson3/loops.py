@@ -1,7 +1,7 @@
 if __name__ == '__main__':
     """
     There are two types of loops in Python, for and while.
-    
+
     @see https: // docs.python.org / 3.8 / tutorial / controlflow.html
     4.2. for Statements
     4.3. The range() Function
